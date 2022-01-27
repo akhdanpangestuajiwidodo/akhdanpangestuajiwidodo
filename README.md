@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhdan Pangestuaji Widodo
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutetr App and Software Testing (QA)
+- 🌱 I’m currently learning Flutter App, Android Native (Kotlin), and React Native
 - 💞️ I want to collaborate in those 2 positions
 - 📫 You can contact me via gmail at akhan1303@gmail.com
 
